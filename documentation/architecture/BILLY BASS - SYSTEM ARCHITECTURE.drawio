@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Hm2mBw2r_y1v00wHIPAl">
+    <mxGraphModel dx="964" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VfRjA_H86zFIgcMtzV5a-9" edge="1" parent="1" source="VfRjA_H86zFIgcMtzV5a-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="VfRjA_H86zFIgcMtzV5a-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfRjA_H86zFIgcMtzV5a-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="4 x AA Batteries" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="VfRjA_H86zFIgcMtzV5a-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="PCB&lt;div&gt;NY5Q080AS16&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="VfRjA_H86zFIgcMtzV5a-11" edge="1" parent="1" source="VfRjA_H86zFIgcMtzV5a-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="VfRjA_H86zFIgcMtzV5a-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfRjA_H86zFIgcMtzV5a-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Activation Button" vertex="1">
+          <mxGeometry height="80" width="80" x="210" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="VfRjA_H86zFIgcMtzV5a-12" edge="1" parent="1" source="VfRjA_H86zFIgcMtzV5a-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="VfRjA_H86zFIgcMtzV5a-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfRjA_H86zFIgcMtzV5a-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Switch to control motion senser" vertex="1">
+          <mxGeometry height="80" width="80" x="510" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="VfRjA_H86zFIgcMtzV5a-13" edge="1" parent="1" source="VfRjA_H86zFIgcMtzV5a-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="VfRjA_H86zFIgcMtzV5a-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfRjA_H86zFIgcMtzV5a-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Speaker" vertex="1">
+          <mxGeometry height="80" width="80" x="260" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="VfRjA_H86zFIgcMtzV5a-14" edge="1" parent="1" source="VfRjA_H86zFIgcMtzV5a-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="VfRjA_H86zFIgcMtzV5a-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfRjA_H86zFIgcMtzV5a-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Motor and gearbox" vertex="1">
+          <mxGeometry height="90" width="90" x="360" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="VfRjA_H86zFIgcMtzV5a-15" edge="1" parent="1" source="VfRjA_H86zFIgcMtzV5a-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="VfRjA_H86zFIgcMtzV5a-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfRjA_H86zFIgcMtzV5a-8" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Motion Sensor&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="480" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="VfRjA_H86zFIgcMtzV5a-17" edge="1" parent="1" source="VfRjA_H86zFIgcMtzV5a-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="VfRjA_H86zFIgcMtzV5a-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VfRjA_H86zFIgcMtzV5a-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Unidentified circular disk&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="500" y="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
