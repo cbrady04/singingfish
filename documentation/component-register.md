@@ -1,15 +1,12 @@
-**Original Hardware**
-
 # Original Hardware Register
 
-| ID | Component | Model / Specification | Quantity | Function | Status | Notes |
-|---|---|---|---:|---|---|---|
-| OH-01 | 4x AA Batteries  | 6V | 4x | Powers toy | Functional | Just the batteries |
-| OH-02 | Motor | Unknown | 1x | Moves fish | Functional | Think there's only one motor, should be able to reuse.|
-| OH-03 | Speaker | Unknown | 1x | Plays audio | Functional | A bit tinny but adds to the charm, should be able to reuse.|
-| OH-04 | Motion sensor | Unknown | 1x | Detects movement | Functional | Underneath button, triggers activation, presumably infrared. |
-| OH-05 | Motherboard | SQX-035A9-O6A | 1x | Brain of fish | Functional | Will need to be replaced. |
-| OH-06 | Piezoelectric disk(?)| Unknown | 1x | Unknown | Unknown | No idea what this is...|
-| OH-07 | Switch for motion activation | Unknown | 1x | Disables or enables motion activation | Functional | Should be able to keep.|
-| OH-08 | Activation button | Unknown | 1x | Activates toy | Functional | Should be able to keep.|
-
+| ID | Component | Model / Specification | Quantity | Function | Status | Reuse Potential | Notes |
+|---|---|---|---:|---|---|---|---|
+| OH-01 | Battery supply | 4 × AA, nominal 6V (alkaline) | 1 | Powers toy | Identified | Under investigation | Original power source |
+| OH-02 | Motor | Unknown | 1 observed | Drives fish movement | Partially identified | Under investigation | Number of motors and linkage arrangement unconfirmed |
+| OH-03 | Speaker | Unknown | 1 | Audio output | Identified | Likely | Small speaker; functional |
+| OH-04 | Motion sensor | Unknown | 1 | Detects nearby movement | Partially identified | Under investigation | Front-panel optical sensor; IR suspected |
+| OH-05 | Original control PCB | SQX-035A9-06A | 1 | Controls toy | Identified | Unlikely | Original controller |
+| OH-06 | Circular disc | Possibly piezoelectric | 1 | Unknown | Unidentified | Unknown | Function not established |
+| OH-07 | Motion activation switch | Unknown | 1 | Enables/disables motion activation | Identified | Likely | Functional |
+| OH-08 | Activation button | Unknown | 1 | Activates toy | Identified | Likely | Functional |
